@@ -1,0 +1,17 @@
+body{
+  background:#ff1a1a;
+  font font-family: arial;
+}
+h1{
+  color: blue;
+  font-size: 60px;
+  font-weight: bold;
+  text-decoration: inherit;
+  text-transform: uppercase;
+  border: 3px.dot.grey;
+}
+p{
+  font-size: 30px;
+  background-color: black;
+  color: white;
+}
